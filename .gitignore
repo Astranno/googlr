@@ -1,0 +1,4 @@
+.DS_Store
+Source/.build
+Source/Packages
+Source/*.xcodeproj

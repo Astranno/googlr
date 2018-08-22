@@ -57,7 +57,7 @@ If you have any issues with the uninstall create an issue [here](https://github.
 $ googlr "<your search here>"
 ```
 
-Replace <your search here> with the search you would like to perform on [Google](https://www.google.com).
+Replace \<your search here> with the search you would like to perform on [Google](https://www.google.com).
 
 ## Contributions
 

@@ -16,7 +16,7 @@ googlr is a simple command line tool that lets you search [Google](https://www.g
 Run the following command in your Terminal application:
 
 ```sh
-curl -o install.sh https://raw.githubusercontent.com/Camji55/googlr/master/Install%20Scripts/install.sh && sudo bash install.sh && rm -R -f install.sh
+curl -fsSL https://raw.githubusercontent.com/Camji55/googlr/master/Install%20Scripts/install.sh | sudo sh
 ```
 
 #### Install Manually
@@ -39,7 +39,7 @@ If you have any issues with the install create an issue [here](https://github.co
 Run the following command in your Terminal application:
 
 ```sh
-curl -o uninstall.sh https://raw.githubusercontent.com/Camji55/googlr/master/Install%20Scripts/uninstall.sh && sudo bash uninstall.sh && rm -R -f uninstall.sh
+curl -fsSL https://raw.githubusercontent.com/Camji55/googlr/master/Install%20Scripts/uninstall.sh | sudo sh
 ```
 
 #### Uninstall Manually

@@ -4,7 +4,7 @@
   <a href="https://github.com/Camji55/googlr"><img src="https://img.shields.io/badge/Version-1.0.0-blue.svg?longCache=true&style=for-the-badge"></a>
   <a href="https://github.com/Camji55/googlr/blob/master/LICENCE.md"><img src="https://img.shields.io/badge/Licence-MIT-green.svg?longCache=true&style=for-the-badge"></a>
   <img src="https://img.shields.io/badge/Made With-Swift-red.svg?longCache=true&style=for-the-badge">
-</p>
+</p><br/>
 
 # Googlr
 

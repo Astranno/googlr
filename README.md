@@ -71,7 +71,7 @@ If you have any issues with the uninstall create an issue [here](https://github.
 
 Feel free to submit issues and pull requests.
 
-## Licence
+## License
 
 `googlr` is available under the MIT license. See the LICENSE file for more info.
 

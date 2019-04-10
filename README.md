@@ -19,7 +19,7 @@
 - [License](#license)
 
 
-## How to Install
+## Installation
 #### Install with the Installer
 Run the following command in your Terminal application:
 

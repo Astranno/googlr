@@ -2,7 +2,7 @@
 <p align="center">
   <img width="400" src="https://user-images.githubusercontent.com/2769158/44444745-969a2b00-a59b-11e8-8bf7-a4ce0b096399.png"><br/><br/><br/>
   <a href="https://github.com/Astranno/googlr"><img src="https://img.shields.io/badge/Version-1.0.0-blue.svg?longCache=true&style=for-the-badge"></a>
-  <a href="https://github.com/Astranno/googlr/blob/master/LICENSE.md"><img src="https://img.shields.io/badge/License-MIT-green.svg?longCache=true&style=for-the-badge"></a>
+  <a href="https://github.com/Astranno/googlr/blob/master/LICENCE.md"><img src="https://img.shields.io/badge/Licence-MIT-green.svg?longCache=true&style=for-the-badge"></a>
   <img src="https://img.shields.io/badge/Made With-Swift-red.svg?longCache=true&style=for-the-badge">
 </p><br/>
 
@@ -16,7 +16,7 @@
   - [Uninstaller](#uninstall-with-the-uninstaller)
   - [Manual](#uninstall-manually)
 - [Contributing](#contributing)
-- [License](#license)
+- [Licence](#licence)
 
 
 ## Installation
@@ -71,9 +71,9 @@ If you have any issues with the uninstall create an issue [here](https://github.
 
 Feel free to submit issues and pull requests.
 
-## License
+## Licence
 
-`googlr` is available under the MIT license. See the LICENSE file for more info.
+`googlr` is available under the MIT licence. See the LICENCE file for more info.
 
 <br/>
 

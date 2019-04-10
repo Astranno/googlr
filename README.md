@@ -24,7 +24,7 @@
 Run the following command in your Terminal application:
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/Camji55/googlr/master/Install%20Scripts/install.sh | sudo sh
+curl -fsSL https://raw.githubusercontent.com/Astranno/googlr/master/Install%20Scripts/install.sh | sudo sh
 ```
 
 #### Install Manually
@@ -55,7 +55,7 @@ Replace \<your search here> with the search you would like to perform on [Google
 Run the following command in your Terminal application:
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/Camji55/googlr/master/Install%20Scripts/uninstall.sh | sudo sh
+curl -fsSL https://raw.githubusercontent.com/Astranno/googlr/master/Install%20Scripts/uninstall.sh | sudo sh
 ```
 
 #### Uninstall Manually
